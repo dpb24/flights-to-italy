@@ -2,7 +2,7 @@
 ### ✈️ Visualising my flight data in Tableau 🌍 <br>
 
 In recent years, I’ve taken countless flights to Italy — but what does that look like when mapped out?
-To find out, I used Python 🐍 for exploratory data analysis (EDA) and data preprocessing before building a Tableau dashboard.
+To find out, I used Python 🐍 for exploratory data analysis (EDA) and data preprocessing of 100+ flights before building a Tableau dashboard.
 
 ### 💡 Key Insights: <br>
  - 🕒 **200+ hours** in the air <br>
