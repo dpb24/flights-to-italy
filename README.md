@@ -10,9 +10,9 @@ To find out, I used Python 🐍 for exploratory data analysis (EDA) and data pre
  - 📍 **4 'motorways in the sky'** that connect London and Rome <br>
 
 ### 🔗 Project Resources: <br>
-📂 **Dataset:** [flight data files](https://www.kaggle.com/datasets/davidpbriggs/flights-to-italy) <br>
-📖 **Jupyter Notebook:** [GitHub](https://github.com/dpb24/flights-to-italy/blob/main/notebook-flights-to-italy.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/notebook-flights-to-italy) <br>
-📊 **Tableau Dashboard:** [view visualisation](https://public.tableau.com/app/profile/david.briggs6120/viz/FlightstoItaly/Dashboard1) <br>
+📂 Dataset: [flight data files](https://www.kaggle.com/datasets/davidpbriggs/flights-to-italy) <br>
+📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/flights-to-italy/blob/main/notebook-flights-to-italy.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/notebook-flights-to-italy) <br>
+📊 Tableau Dashboard: [view visualisation](https://public.tableau.com/app/profile/david.briggs6120/viz/FlightstoItaly/Dashboard1) <br>
 
 
 <div style="text-align: center;">
