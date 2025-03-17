@@ -5,7 +5,7 @@ In recent years, I’ve taken countless flights to Italy — but what does that 
 To find out, I used Python 🐍 for exploratory data analysis (EDA) and data preprocessing of 100+ flights before building a Tableau dashboard.
 
 ### 💡 Key Insights: <br>
- - 🕒 **200+ hours** in the air <br>
+ - 🕒 **200+ hours** in the air (calculated from flight tracking data) <br>
  - 🚀 **100,000 airmiles** - almost half the distance to the Moon <br>
  - 📍 **4 'motorways in the sky'** that connect London and Rome <br>
 
