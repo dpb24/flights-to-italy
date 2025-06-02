@@ -1,16 +1,23 @@
 # ✈️ Visualising flight data in Tableau 🌍 <br>
 
-Python 🐍 was used for exploratory data analysis (EDA) and data preprocessing of over 100 flights, followed by the creation of a Tableau dashboard.
+**Libraries:** `scipy`, `seaborn`, `matplotlib`, `geopandas`, `pandas`, `numpy` <br>
+**Dataset:** [Flights to Italy](https://www.kaggle.com/datasets/davidpbriggs/flights-to-italy)
+
+Python 🐍 was used for exploratory data analysis (EDA) and preprocessing of GPS tracking data from over 100 flights, followed by interactive dashboard visualisation in Tableau.
+
+### 🧠 Methodology:
+ - Used `numpy` to compute flight distances via the **Haversine formula**
+ - Used  `scipy.spatial.cKDTree` for efficient identification of departure/arrival airports
+ - Used `geopandas` to map flight paths and overlay tracking data
 
 ### 💡 Key Insights: <br>
- - 🕒 **200+ hours** in the air - calculated from flight tracking data <br>
- - 🚀 **100,000 airmiles** - almost half the distance to the Moon <br>
- - 📍 **4 "motorways in the sky"** that connect London and Rome <br>
+ - 🕒 **200+ hours** spent in the air (from tracking timestamps) <br>
+ - 🚀 **100,000 airmiles** - nearly halfway to the Moon <br>
+ - 📍 Identified **4 "motorways in the sky"** connecting London and Rome <br>
 
 ### 🔗 Project Resources: <br>
-📂 Dataset: [flight data files](https://www.kaggle.com/datasets/davidpbriggs/flights-to-italy) <br>
 📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/flights-to-italy/blob/main/notebooks/notebook-flights-to-italy.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/notebook-flights-to-italy) <br>
-📊 Tableau Dashboard: [view visualisation](https://public.tableau.com/app/profile/david.briggs6120/viz/FlightstoItaly/Dashboard1) <br>
+📊 Interactive Dashboard: [Tableau](https://public.tableau.com/app/profile/david.briggs6120/viz/FlightstoItaly/Dashboard1) <br>
 
 <div style="text-align: center;">
     <a href="https://public.tableau.com/app/profile/david.briggs6120/viz/FlightstoItaly/Dashboard1" target="_blank" rel="noopener noreferrer">
